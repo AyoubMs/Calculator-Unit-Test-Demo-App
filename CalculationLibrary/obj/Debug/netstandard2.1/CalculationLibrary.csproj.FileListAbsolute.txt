@@ -1,0 +1,10 @@
+C:\Users\ayoub\source\repos\CalculatorUnitTestDemoApp\CalculationLibrary\bin\Debug\netstandard2.1\CalculationLibrary.deps.json
+C:\Users\ayoub\source\repos\CalculatorUnitTestDemoApp\CalculationLibrary\bin\Debug\netstandard2.1\CalculationLibrary.dll
+C:\Users\ayoub\source\repos\CalculatorUnitTestDemoApp\CalculationLibrary\bin\Debug\netstandard2.1\CalculationLibrary.pdb
+C:\Users\ayoub\source\repos\CalculatorUnitTestDemoApp\CalculationLibrary\obj\Debug\netstandard2.1\CalculationLibrary.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\CalculatorUnitTestDemoApp\CalculationLibrary\obj\Debug\netstandard2.1\CalculationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayoub\source\repos\CalculatorUnitTestDemoApp\CalculationLibrary\obj\Debug\netstandard2.1\CalculationLibrary.AssemblyInfoInputs.cache
+C:\Users\ayoub\source\repos\CalculatorUnitTestDemoApp\CalculationLibrary\obj\Debug\netstandard2.1\CalculationLibrary.AssemblyInfo.cs
+C:\Users\ayoub\source\repos\CalculatorUnitTestDemoApp\CalculationLibrary\obj\Debug\netstandard2.1\CalculationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\CalculatorUnitTestDemoApp\CalculationLibrary\obj\Debug\netstandard2.1\CalculationLibrary.dll
+C:\Users\ayoub\source\repos\CalculatorUnitTestDemoApp\CalculationLibrary\obj\Debug\netstandard2.1\CalculationLibrary.pdb
